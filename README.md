@@ -1,2 +1,2 @@
 # pong
-HTML5 and JavaScript game! ***PONG***
+HTML5 and JavaScript game!
